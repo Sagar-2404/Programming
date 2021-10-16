@@ -1,2 +1,2 @@
 # Programming
-This consists of some important DSA algorithms.
+This repository consists of some important DSA algorithms.
